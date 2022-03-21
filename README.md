@@ -7,3 +7,7 @@ This repository contains the code challenges available through the Kotlin track 
 ### Code challenges
 
 - [Acronym](./acronym/README.md)
+- [Allergies](./allergies/README.md)
+- [Anagram](./anagram/README.md)
+- [Armstrong numbers](./armstrong-numbers/README.md)
+- [Beer song](./beer-song/README.md)
