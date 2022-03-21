@@ -5,4 +5,4 @@ rootProject.name = 'kotlin-exercism'
 include(':acronym')
 include(':allergies')
 include(':anagram')
-
+include(':armstrong-numbers')
