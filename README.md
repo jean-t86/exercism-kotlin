@@ -14,3 +14,5 @@ This repository contains the code challenges available through the Kotlin track 
 - [Bob](./bob/README.md)
 - [Custom Set](./custom-set/README.md)
 - [Darts](./darts/README.md)
+- [Diamons](./diamond/README.md)
+- [Difference of Squares](./difference-of-squares/README.md)
