@@ -13,3 +13,4 @@ This repository contains the code challenges available through the Kotlin track 
 - [Beer song](./beer-song/README.md)
 - [Bob](./bob/README.md)
 - [Custom Set](./custom-set/README.md)
+- [Darts](./darts/README.md)
