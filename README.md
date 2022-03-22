@@ -12,3 +12,4 @@ This repository contains the code challenges available through the Kotlin track 
 - [Armstrong numbers](./armstrong-numbers/README.md)
 - [Beer song](./beer-song/README.md)
 - [Bob](./bob/README.md)
+- [Custom Set](./custom-set/README.md)
