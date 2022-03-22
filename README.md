@@ -11,3 +11,4 @@ This repository contains the code challenges available through the Kotlin track 
 - [Anagram](./anagram/README.md)
 - [Armstrong numbers](./armstrong-numbers/README.md)
 - [Beer song](./beer-song/README.md)
+- [Bob](./bob/README.md)
