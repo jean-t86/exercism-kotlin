@@ -3,7 +3,6 @@ import kotlin.test.assertFalse
 import kotlin.test.assertTrue
 
 class PangramTest {
-
     @Test
     fun emptySentence() {
         assertFalse(Pangram.isPangram(""))

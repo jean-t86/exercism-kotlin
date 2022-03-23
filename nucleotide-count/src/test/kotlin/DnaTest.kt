@@ -3,7 +3,6 @@ import org.junit.jupiter.api.assertThrows
 import kotlin.test.assertEquals
 
 class DnaTest {
-
     @Test
     fun emptyDnaStringHasNoNucleotides() {
         val dna = Dna("")
@@ -42,5 +41,4 @@ class DnaTest {
             Dna("AGXXACT")
         }
     }
-
 }
