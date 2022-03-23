@@ -18,3 +18,4 @@ This repository contains the code challenges available through the Kotlin track 
 - [Difference of Squares](./difference-of-squares/README.md)
 - [D&D Character](./dnd-character/README.md)
 - [Flatten Array](./flatten-array/README.md)
+- [Gigasecond](./gigasecond/README.md)
