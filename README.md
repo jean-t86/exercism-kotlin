@@ -45,3 +45,4 @@ This repository contains the code challenges available through the Kotlin track 
 - [Saddle Points](./saddle-points/README.md)
 - [Scrabble Score](./scrabble-score/README.md)
 - [Secret Handshake](./secret-handshake/README.md)
+- [Series](./series/README.md)
