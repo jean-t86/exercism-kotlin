@@ -44,3 +44,4 @@ This repository contains the code challenges available through the Kotlin track 
 - [Rotational Cipher](./rotational-cipher/README.md)
 - [Saddle Points](./saddle-points/README.md)
 - [Scrabble Score](./scrabble-score/README.md)
+- [Secret Handshake](./secret-handshake/README.md)
