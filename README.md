@@ -50,3 +50,4 @@ This repository contains the code challenges available through the Kotlin track 
 - [Transpose](./transpose/README.md)
 - [Triangle](./triangle/README.md)
 - [Two Fer](./two-fer/README.md)
+- [Word Count](./word-count/README.md)
