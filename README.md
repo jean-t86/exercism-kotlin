@@ -25,3 +25,4 @@ This repository contains the code challenges available through the Kotlin track 
 - [Luhn](./luhn/README.md)
 - [Matrix](./matrix/README.md)
 - [Meetup](./meetup/README.md)
+- [Minesweeper](./minesweeper/README.md)
