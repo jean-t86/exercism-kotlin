@@ -9,30 +9,25 @@ class HammingTest {
         assertEquals(0, Hamming.compute("", ""))
     }
 
-
     @Test
     fun `single letter identical strands`() {
         assertEquals(0, Hamming.compute("A", "A"))
     }
-
 
     @Test
     fun `single letter different strands`() {
         assertEquals(1, Hamming.compute("G", "T"))
     }
 
-
     @Test
     fun `long identical strands`() {
         assertEquals(0, Hamming.compute("GGACTGAAATCTG", "GGACTGAAATCTG"))
     }
 
-
     @Test
     fun `long different strands`() {
         assertEquals(9, Hamming.compute("GGACGGATTCTG", "AGGACGGATTCT"))
     }
-
 
     @Test
     fun `disallow first strand longer`() {
@@ -40,7 +35,6 @@ class HammingTest {
             Hamming.compute("AATG", "AAA")
         }
     }
-
 
     @Test
     fun `disallow second strand longer`() {
