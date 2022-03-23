@@ -20,3 +20,4 @@ This repository contains the code challenges available through the Kotlin track 
 - [Flatten Array](./flatten-array/README.md)
 - [Gigasecond](./gigasecond/README.md)
 - [Hamming](./hamming/README.md)
+- [Hello World](./hello-world/README.md)
