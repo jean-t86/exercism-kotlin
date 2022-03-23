@@ -30,3 +30,4 @@ This repository contains the code challenges available through the Kotlin track 
 - [Pangram](./pangram/README.md)
 - [Phone Number](./phone-number/README.md)
 - [Resistor Color](./resistor-color/README.md)
+- [Resistor Color Duo](./resistor-color-duo/README.md)
