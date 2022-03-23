@@ -40,6 +40,7 @@ This repository contains the code challenges available through the Kotlin track 
 - [Reverse String](./reverse-string/README.md)
 - [RNA Transcription](./rna-transcription/README.md)
 - [Robot Name](./robot-name/README.md)
+- [Roman Numerals](./roman-numerals/README.md)
 - [Rotational Cipher](./rotational-cipher/README.md)
 - [Saddle Points](./saddle-points/README.md)
 - [Scrabble Score](./scrabble-score/README.md)
