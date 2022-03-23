@@ -48,3 +48,4 @@ This repository contains the code challenges available through the Kotlin track 
 - [Series](./series/README.md)
 - [Space Age](./space-age/README.md)
 - [Transpose](./transpose/README.md)
+- [Triangle](./triangle/README.md)
