@@ -26,3 +26,4 @@ This repository contains the code challenges available through the Kotlin track 
 - [Matrix](./matrix/README.md)
 - [Meetup](./meetup/README.md)
 - [Minesweeper](./minesweeper/README.md)
+- [Nucleotide Count](./nucleotide-count/README.md)
