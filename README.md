@@ -23,6 +23,8 @@ This repository contains the code challenges available through the Kotlin track 
 - [Hello World](./hello-world/README.md)
 - [ISBN Verifier](./isbn-verifier/README.md)
 - [Isogram](./isogram/README.md)
+- [Largest Series Product](./largest-series-product/README.md)
+- [Leap](./leap/README.md)
 - [Luhn](./luhn/README.md)
 - [Matrix](./matrix/README.md)
 - [Meetup](./meetup/README.md)
