@@ -22,6 +22,7 @@ This repository contains the code challenges available through the Kotlin track 
 - [Hamming](./hamming/README.md)
 - [Hello World](./hello-world/README.md)
 - [ISBN Verifier](./isbn-verifier/README.md)
+- [Isogram](./isogram/README.md)
 - [Luhn](./luhn/README.md)
 - [Matrix](./matrix/README.md)
 - [Meetup](./meetup/README.md)

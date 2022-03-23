@@ -1,29 +1,42 @@
-# Saddle Points
+# Scrabble Score
 
 ## Instructions
 
-Detect saddle points in a matrix.
+Given a word, compute the scrabble score for that word.
 
-So say you have a matrix like so:
+## Letter Values
+
+You'll need these:
 
 ```text
-    1  2  3
-  |---------
-1 | 9  8  7
-2 | 5  3  2     <--- saddle point at column 1, row 2, with value 5
-3 | 6  6  7
+Letter                           Value
+A, E, I, O, U, L, N, R, S, T       1
+D, G                               2
+B, C, M, P                         3
+F, H, V, W, Y                      4
+K                                  5
+J, X                               8
+Q, Z                               10
 ```
 
-It has a saddle point at column 1, row 2.
+## Examples
 
-It's called a "saddle point" because it is greater than or equal to every element in its row and less than or equal to
-every element in its column.
+"cabbage" should be scored as worth 14 points:
 
-A matrix may have zero or more saddle points.
+- 3 points for C
+- 1 point for A, twice
+- 3 points for B, twice
+- 2 points for G
+- 1 point for E
 
-Your code should be able to provide the (possibly empty) list of all the saddle points for any given matrix.
+And to total:
 
-The matrix can have a different number of rows and columns (Non square).
+- `3 + 2*1 + 2*3 + 2 + 1`
+- = `3 + 2 + 6 + 3`
+- = `5 + 9`
+- = 14
 
-Note that you may find other definitions of matrix saddle points online, but the tests for this exercise follow the
-above unambiguous definition.
+## Extensions
+
+- You can play a double or a triple letter.
+- You can play a double or a triple word.
