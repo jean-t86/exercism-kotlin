@@ -32,6 +32,7 @@ This repository contains the code challenges available through the Kotlin track 
 - [Nucleotide Count](./nucleotide-count/README.md)
 - [Pangram](./pangram/README.md)
 - [Phone Number](./phone-number/README.md)
+- [Pig Latin](./pig-latin/README.md)
 - [Resistor Color](./resistor-color/README.md)
 - [Resistor Color Duo](./resistor-color-duo/README.md)
 - [Resistor Color Trio](./resistor-color-trio/README.md)
