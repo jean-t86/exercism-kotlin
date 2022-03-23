@@ -21,3 +21,4 @@ This repository contains the code challenges available through the Kotlin track 
 - [Gigasecond](./gigasecond/README.md)
 - [Hamming](./hamming/README.md)
 - [Hello World](./hello-world/README.md)
+- [ISBN Verifier](./isbn-verifier/README.md)
