@@ -16,3 +16,4 @@ This repository contains the code challenges available through the Kotlin track 
 - [Darts](./darts/README.md)
 - [Diamons](./diamond/README.md)
 - [Difference of Squares](./difference-of-squares/README.md)
+- [D&D Character](./dnd-character/README.md)
