@@ -32,3 +32,4 @@ This repository contains the code challenges available through the Kotlin track 
 - [Resistor Color](./resistor-color/README.md)
 - [Resistor Color Duo](./resistor-color-duo/README.md)
 - [Resistor Color Trio](./resistor-color-trio/README.md)
+- [Reverse String](./reverse-string/README.md)
