@@ -24,3 +24,4 @@ This repository contains the code challenges available through the Kotlin track 
 - [ISBN Verifier](./isbn-verifier/README.md)
 - [Luhn](./luhn/README.md)
 - [Matrix](./matrix/README.md)
+- [Meetup](./meetup/README.md)
