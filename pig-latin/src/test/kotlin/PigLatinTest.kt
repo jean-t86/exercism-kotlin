@@ -61,7 +61,7 @@ class PigLatinTest {
         )
     }
 
-    @ParameterizedTest
+    @ParameterizedTest(name = "{index}: translate({0})={1}")
     @MethodSource("data")
     fun test(input: String, expectedOutput: String) {
         assertEquals(expectedOutput, PigLatin.translate(input))
