@@ -3,7 +3,6 @@ import kotlin.test.assertFalse
 import kotlin.test.assertTrue
 
 class LuhnTest {
-
     @Test
     fun `invalid | single digit`() = assertInvalid("1")
 
@@ -68,7 +67,6 @@ class LuhnTest {
      * sometimes accidentally declare an invalid string to be valid.
      * This test is designed to avoid that solution.
      */
-
     @Test
     fun `invalid | ascii value for non-doubled non-digit in the middle`() = assertInvalid("055b 444 285")
 
@@ -77,7 +75,6 @@ class LuhnTest {
      * sometimes accidentally declare an invalid string to be valid.
      * This test is designed to avoid that solution.
      */
-
     @Test
     fun `invalid | ascii value for non-doubled non-digit at the start`() = assertInvalid(":9")
 }

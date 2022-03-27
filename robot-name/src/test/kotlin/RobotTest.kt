@@ -5,11 +5,11 @@ import kotlin.test.assertTrue
 
 class RobotTest {
     companion object {
-        val EXPECTED_ROBOT_NAME_PATTERN = Regex("[A-Z]{2}\\d{3}")
+        private val EXPECTED_ROBOT_NAME_PATTERN = Regex("[A-Z]{2}\\d{3}")
         private fun isValidName(name: String) = EXPECTED_ROBOT_NAME_PATTERN.matches(name)
     }
 
-    val robot = Robot()
+    private val robot = Robot()
 
     @Test
     fun hasName() {

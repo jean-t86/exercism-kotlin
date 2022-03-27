@@ -1,4 +1,4 @@
-# Diamon
+# Diamond
 
 ## Instructions
 

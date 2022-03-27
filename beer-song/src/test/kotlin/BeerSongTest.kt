@@ -2,7 +2,6 @@ import org.junit.jupiter.api.Test
 import kotlin.test.assertEquals
 
 class BeerSongTest {
-
     @Test
     fun firstGenericVerse() {
         val expected =
@@ -357,5 +356,4 @@ Go to the store and buy some more, 99 bottles of beer on the wall.
 """
         assertEquals(expected, BeerSong.verses(99, 0))
     }
-
 }

@@ -4,7 +4,6 @@ import java.time.LocalDate
 import kotlin.test.assertEquals
 
 class MeetupTest {
-
     @Test
     fun testMonteenthOfMay2013() {
         val expected = LocalDate.of(2013, 5, 13)

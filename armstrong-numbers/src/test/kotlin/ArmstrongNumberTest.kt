@@ -3,7 +3,6 @@ import kotlin.test.assertFalse
 import kotlin.test.assertTrue
 
 class ArmstrongNumberTest {
-
     @Test
     fun `zero is an armstrong number`() = assertTrue(ArmstrongNumber.check(0))
 

@@ -3,7 +3,6 @@ import org.junit.jupiter.api.Test
 import org.junit.jupiter.api.assertThrows
 
 class HammingTest {
-
     @Test
     fun `empty strands`() {
         assertEquals(0, Hamming.compute("", ""))
