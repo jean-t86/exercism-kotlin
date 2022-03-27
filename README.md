@@ -10,6 +10,7 @@ This repository contains the code challenges available through the Kotlin track 
 - [Allergies](./allergies/README.md)
 - [Anagram](./anagram/README.md)
 - [Armstrong Numbers](./armstrong-numbers/README.md)
+- [Bank Account](./bank-account/README.md)
 - [Beer Song](./beer-song/README.md)
 - [Bob](./bob/README.md)
 - [Custom Set](./custom-set/README.md)
